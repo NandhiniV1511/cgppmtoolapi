@@ -16,4 +16,7 @@
     <fullyQualifiedTypeName name="in.cg.ppmtoolapi.service.ProjectService"/>
     <fullyQualifiedTypeName name="in.cg.ppmtoolapi.domain.Project"/>
     <fullyQualifiedTypeName name="in.cg.ppmtoolapi.repository.ProjectRepository"/>
+    <fullyQualifiedTypeName name="javax.validation.constraints.NotBlank"/>
+    <fullyQualifiedTypeName name="javax.validation.constraints.Size"/>
+    <fullyQualifiedTypeName name="com.fasterxml.jackson.annotation.JsonFormat"/>
 </qualifiedTypeNameHistroy>
